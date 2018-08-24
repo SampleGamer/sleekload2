@@ -85,15 +85,9 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "9BPfyhhv7-c", name: "Imagine Dragons - Natural"},
-	{youtube: "fbHbTBP_u7U", name: "NF - Let You Down"},
-	{youtube: "btrzs54s1Rc", name: "Jonas Blue - Rise ft. Jack & Jack"}
-	{youtube: "1-xGerv5FOk", name: "Alan Walker - Alone"}
-	{youtube: "8JnfIa84TnU", name: "Clean Bandit - Solo feat. Demi Lovato"}
+	{youtube: "B1dmRjyN0CQ", name: "NF - Lie"},
+	{youtube: "1-xGerv5FOk", name: "Alan Walker - Alone"},
 	{youtube: "W9P_qUnMaFg", name: "Dynoro & Gigi D’Agostino - In My Mind"}
-	{youtube: "pgN-vvVVxMA", name: "XXXTENTACION - SAD!"}
-	{youtube: "B1dmRjyN0CQ", name: "NF - Lie"}
-	{youtube: "C1D3G2VGQ_8", name: "Jocelyn Flores"}
 ];
 
 /*Random music order?*/
@@ -110,7 +104,8 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Bienvenue sur le serveur",
 "Merci de nous rejoindre!",
-"EliteNB est a votre service!"
+"EliteNB est a votre service!",
+"Serveur crée depuis février 2017!"
 ];
 
 /*Random message order?*/
